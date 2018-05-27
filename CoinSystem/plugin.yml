@@ -1,5 +1,5 @@
-name: CoinSystem
-author: [zBearchenPlayz]
+name: CoinsSystem
+author: zBearchenPlayz
 version: 1.0
 api: [3.0.0-ALPHA12]
 main: zBearchenPlayz/coinsystem
