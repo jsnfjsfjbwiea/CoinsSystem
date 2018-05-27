@@ -1,5 +1,5 @@
 <?php
-namespace zBearchenPlayz;
+namespace zBearchenPlayz\CoinSystem;
 use zBearchenPlayz\Provider\MySQLDataProvider;
 use zBearchenPlayz\API;
 use zBearchenPlayz\Listeners\PlayerJoinListener;
